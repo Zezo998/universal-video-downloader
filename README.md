@@ -11,16 +11,6 @@ A simple and powerful Python script to download videos from various platforms ac
 - Python 3.x
 - `yt-dlp` library
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Zezo998/universal-video-downloader.git
-   cd universal-video-downloader
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 Run the script with the video URL as an argument:
