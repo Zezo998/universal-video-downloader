@@ -19,8 +19,8 @@ A simple command-line tool for downloading videos from hundreds of sites (YouTub
 ## Installation
 
 ```bash
-git clone https://github.com/Zezo998/universal-video-downloader.git
-cd universal-video-downloader
+git clone https://github.com/Zezo998/vidgrab.git
+cd vidgrab
 pip install -r requirements.txt
 ```
 
