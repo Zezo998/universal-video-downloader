@@ -1,4 +1,4 @@
-# Universal Video Downloader
+# vidgrab
 
 A simple command-line tool for downloading videos from hundreds of sites (YouTube, Vimeo, X/Twitter, and more), powered by [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 
