@@ -19,7 +19,7 @@ A simple command-line tool for downloading videos from hundreds of sites (YouTub
 ## Installation
 
 ```bash
-git clone https://github.com/Zezo998/vidgrab.git
+git clone https://github.com/ninjacodes777/vidgrab.git
 cd vidgrab
 pip install -r requirements.txt
 ```
@@ -36,7 +36,7 @@ Example:
 python3 downloader.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 ```
 
-The video is saved to `downloads/<video title>.<ext>` in the current directory.
+The video is saved to `downloads/. ` in the current directory.
 
 ## How it works
 
